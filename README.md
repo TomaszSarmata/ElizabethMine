@@ -38,3 +38,13 @@ If you don't have Shopify CLI installed to your computer, navigate to the [insta
 ## Not a student
 
 If you're not a student, you can still use this repository to start a new Shopify theme project. However, any issues that you will encounter throughout your development will not be supported as the instructor will only answer questions through the course's QnA page.
+
+
+shopify theme dev --store development-vitaella-theme.myshopify.com
+Preview your theme                                                          │
+│    • http://127.0.0.1:9292 
+
+Next steps                                                                  │
+│    • Customize your theme at the theme editor                                │
+│    • Share your theme preview (https://development-vitaella-theme.myshopify  │
+│      .com/?preview_theme_id=162801189177)   
