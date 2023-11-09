@@ -48,3 +48,5 @@ Next steps                                                                  │
 │    • Customize your theme at the theme editor                                │
 │    • Share your theme preview (https://development-vitaella-theme.myshopify  │
 │      .com/?preview_theme_id=162801189177)   
+
+command 'shopify theme dev' to run the local env
